@@ -1,8 +1,8 @@
-### Hi there 👋, Sofiane Nabli
-#### Design and Developpement
 ![Design and Developpement](https://github.com/sofianlap/sofianlap/blob/main/logo-og.png)
-
+# Hi there 👋, Sofiane Nabli
 I'm Sofiane from Tunisia and really enjoy learning languages and frameworks . I'm a full stack developer i use React JS as my framework to do a fancy web applications , I'm really enjoyed the coding and my process for learning more in the world of programming
+
+## Skills and Experience
 
 Skills: NODEJS/ EXPRESS/ MONGODB /MONGOOSE/ JAVASCRIPT  / REACT / JS / HTML / CSS
 

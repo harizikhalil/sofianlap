@@ -5,7 +5,9 @@ I'm Sofiane from Tunisia and really enjoy learning languages and frameworks . I'
 ## Skills and Experience
 
 :snowflake: REACT JS
-Skills: NODEJS/ EXPRESS/ MONGODB /MONGOOSE/ JAVASCRIPT  / REACT / JS / HTML / CSS
+:computer: MONGODB / MONGOOSE / EXPRESS / NODEJS
+:pager: HTML / CSS
+:crystal_ball: JAVASCRIPT 
 
 - 🌱 I’m currently learning Database Management 
 - 📫 How to reach me: sofianesprit@gmail.com 

@@ -1,4 +1,3 @@
-![Design and Developpement]
 # Hi there 👋, Sofiane Nabli
 I'm Sofiane from Tunisia and really enjoy learning languages and frameworks . I'm a full stack developer i use React JS as my framework to do a fancy web applications , I really enjoy the coding and my process for learning more in the world of programming
 
